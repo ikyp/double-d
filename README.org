@@ -1,0 +1,6 @@
+#+TITLE: *Double-D*
+#+AUTHOR: ikyp
+#+DATE: 2016-12-13 10:45 pm
+
+* Intro
+  My *personal* configurations of *Dwm* and *Dmenu*.
