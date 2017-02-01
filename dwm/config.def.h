@@ -23,6 +23,7 @@ static const Rule rules[] = {
 	{ "Firefox",     NULL,       NULL,        1 << 1,       0,           -1 },
 	{ "Emacs",       NULL,       NULL,        1 << 2,       0,           -1 },
 	{ "Evince",      NULL,       NULL,        1 << 3,       0,           -1 },
+	{ "qpdfview",    NULL,       NULL,        1 << 3,       0,           -1 },
 	{ "pcmanfm-qt",  NULL,       NULL,        1 << 4,       0,           -1 },
 	{ "Vlc",         NULL,       NULL,        1 << 5,       0,           -1 },
 };
